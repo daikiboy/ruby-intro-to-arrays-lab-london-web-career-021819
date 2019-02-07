@@ -5,3 +5,7 @@ end
 def array_with_two_elements
   my_two_arrays = [1, 2]
 end
+
+def first_element(array)
+  first.array
+end
